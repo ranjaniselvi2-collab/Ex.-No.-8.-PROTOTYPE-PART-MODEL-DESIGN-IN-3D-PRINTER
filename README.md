@@ -46,8 +46,6 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-<img width="1018" height="723" alt="Screenshot 2026-03-17 214120" src="https://github.com/user-attachments/assets/aa49d16d-5746-469d-849b-255cf3a9216b" />
-<img width="1497" height="934" alt="Screenshot 2026-03-17 214238" src="https://github.com/user-attachments/assets/76145719-08f4-411f-af89-e87d945d1ee9" />
 
 ### Name:RANJANI S
 ### Register Number: 212225230224
